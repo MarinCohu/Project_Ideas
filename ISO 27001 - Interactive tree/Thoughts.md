@@ -4,4 +4,5 @@ Beside the 10 Main Clauses, there is a list of 93 controls in the **Annex A** of
 
 ***Controls are not independent within a Section and could be organized into an arborescent structure representing dependency and causality.***
 
-My Idea is to identify that underlying causality in the controls to organize them in an arborescent structure that would visually represent the **cascading conformity status of controls**. Incidentally, it would be interesting to see if conformity or non-conformity of a small group of controls can/should impact the conformity status of a 'higher-level' control node.
+My Idea is to identify that underlying causality in the controls to organize them in an **interactive arborescent structure** that would visually represent the **cascading conformity status of controls**. Incidentally, it would be interesting to see if conformity or non-conformity of a small group of controls can/should impact the conformity status of a 'higher-level' control node.
+
